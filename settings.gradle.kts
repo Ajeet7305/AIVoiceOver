@@ -14,9 +14,9 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Multi-App-Project"
+rootProject.name = "AIVoiceOver"
 
-// Include two separate apps
+// Include AI Voice Assistant app
 include(":aivoice")
-include(":csvparser")
+include(":feature:voiceclassifier")
  

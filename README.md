@@ -101,7 +101,6 @@ android {
 - **Translator**: Real-time voice translation and transcription
 
 ### Supporting Modules
-- **CSV Parser**: Data processing utilities
 - **Voice Classifier**: Audio classification and processing
 
 ## 🧪 Testing
