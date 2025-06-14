@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Voice Classifier</string>
+    <string name="voice_classifier">Voice Classifier</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="classification_result">Classification Result</string>
+    <string name="confidence">Confidence</string>
+    <string name="human_speech">Human Speech</string>
+    <string name="ai_generated_speech">AI Generated Speech</string>
+    <string name="phone_call">Phone Call</string>
+    <string name="unknown">Unknown</string>
+    <string name="recording">Recording...</string>
+    <string name="processing">Processing...</string>
+    <string name="microphone_permission_required">Microphone permission is required for voice classification</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="classification_history">Classification History</string>
+    <string name="statistics">Statistics</string>
+    <string name="filter_by_type">Filter by Type</string>
+    <string name="all_types">All Types</string>
+    <string name="no_classifications_yet">No classifications yet</string>
+    <string name="start_recording_to_see_results">Start recording to see classification results</string>
+</resources> 

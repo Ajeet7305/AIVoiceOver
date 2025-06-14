@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CSV Parser</string>
+    <string name="select_csv_file">Select CSV File</string>
+    <string name="parse_csv">Parse CSV</string>
+    <string name="csv_data">CSV Data</string>
+    <string name="error_parsing_csv">Error parsing CSV file</string>
+    <string name="no_file_selected">No file selected</string>
+    <string name="parsing_csv">Parsing CSV file...</string>
+    <string name="total_rows">Total Rows</string>
+    <string name="total_columns">Total Columns</string>
+    <string name="statistics">Statistics</string>
+    <string name="file_selection">File Selection</string>
+    <string name="choose_csv_file">Choose a CSV file to parse and analyze</string>
+    <string name="select_file">Select File</string>
+    <string name="parsed_data">Parsed Data</string>
+    <string name="column">Column</string>
+    <string name="and_more_columns">... and %d more columns</string>
+    <string name="and_more_rows">... and %d more rows</string>
+</resources> 
